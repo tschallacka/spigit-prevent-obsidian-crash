@@ -5,7 +5,7 @@ Minecraft tries to do a light a portal check, but crashes during that process. T
 As this is very annoying, this plugin cancels the dispenser when this specific scenario occurs, saving you a server crash.
 
 Schema of the setup
-
+```
 # = dispenser with flint and steel
 O = obsidian
 . = air
@@ -14,4 +14,4 @@ O = obsidian
 [.][.][O]
 [.][.][.]
 
-  
+ ``` 
