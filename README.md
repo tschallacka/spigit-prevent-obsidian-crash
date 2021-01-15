@@ -4,6 +4,8 @@ In minecraft 1.16.4 there is a crash possible by putting a flint and steel in a 
 Minecraft tries to do a light a portal check, but crashes during that process. This happens in single player as well as on servers.
 As this is very annoying, this plugin cancels the dispenser when this specific scenario occurs, saving you a server crash.
 
+![how it looks](https://i.imgur.com/vBqx8ED.png)
+
 Schema of the setup
 ```
 # = dispenser with flint and steel
